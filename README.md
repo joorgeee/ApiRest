@@ -1,2 +1,2 @@
 # ApiRest
-spring boot con java + mysql.
+Spring boot con Java + Mysql.
